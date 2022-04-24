@@ -2,10 +2,6 @@
 
 
 <h1>Sprint 1</h1>
-  You can find a working prototype for our project here -  http://clabsql.clamv.jacobs-university.de/~vnesro
-  
-  
-  This prototype is only intended for a quick look at the front-end and testing the mechanics of the log-in and sign up. Updated version is available after full installation detailed below. This version is stable but temporary and is based of a now-modified back-end.
   
 <h2>Contributors</h2>
 <ul>
